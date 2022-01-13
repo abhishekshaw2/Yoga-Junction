@@ -1,0 +1,232 @@
+*{
+	margin:0px;
+	font-family:sans-serif;
+}
+.uni-padding{
+	padding:0 10%;
+}
+
+/*header*/
+
+#nav-bar ul{
+	list-style-type:none;
+	overflow:auto;
+	
+	margin:0 0 0 550px;.
+}
+#nav-bar li{
+	float:left;
+	
+}
+#nav-bar li a{
+	display:block;
+	text-decoration:none;
+	color:purple;
+	margin:50px 16px;
+	font-size:18px;
+}
+.logo{
+	position:absolute;
+	padding-left:5%;
+}
+#mob-no{
+	color:white;
+	border:10px solid #FF6347;
+	background-color:#FF6347;
+	border-radius:30px;
+}
+/*banner*/
+#banner{
+	background-color:#5D3FD3;
+	overflow:auto;
+}
+#banner-text{
+	width:50%;
+	height:700px;
+	float:left;
+	color:white;
+	padding:10% 0% 10% 13%;
+	box-sizing:border-box;
+}
+#banner-text h1{
+	padding-bottom:15px;
+	font-family:serif;
+}
+#banner-text p{
+	line-height:150%;
+}
+#banner-img{
+	width:50%;
+	height:700px;
+	float:right;
+}
+
+/*Services*/
+#services{
+	text-align:center;
+	padding-bottom:5%;
+}
+#services h1{
+	padding-top:4%;
+	font-size:50px;
+	font-family:serif;
+}
+#services p{
+	padding:1.5% 15%;
+	line-height:175%;
+}
+
+/* Benifits of Yoga */
+#benefit-heading{
+	text-align:center;
+	
+}
+#benefit-heading h1{
+	font-size:50px;
+	padding-top:4%; 
+}
+#benefit-heading p{
+	padding:1.5% 5%;
+	margin-bottom:5%;
+}
+
+#benefits{
+	overflow:auto;
+	
+	height:1200px;
+	background-color:#F5F5F5;
+}
+#reasons{
+	width:50%;
+	float:left;
+	padding-left:10%;
+	box-sizing:border-box;
+}
+#reasons h2{
+	font-family:serif;
+}
+#banner-img2{
+	width:50%;
+	height:700px;
+	float:right;
+}
+#reasons li{
+	list-style-type:none;
+	line-height:175%;
+}
+
+
+/*discount*/
+#discount{
+	padding:8% 5% 10% 20%;
+
+	background-color:#5D3FD3;
+	height:100px;
+	color:white;
+}
+
+/* About Soma */
+#about{
+	height:700px;
+	overflow:auto;
+	
+	height:500px;
+	padding:0px 15%;
+}
+#banner-pic3{
+	float:left;
+	width:50%;
+}
+#about-details{
+	float:right;
+	width:50%;
+}
+#about-details h2{ 
+	font-size:50px;
+	text-align:center;
+	padding:5% 10% 5% 0%;
+	
+}
+#about-details p{
+	line-height:175%;
+}
+
+/*meet the trainer */
+#meet{
+	text-align:center;
+	font-size:45px;
+	padding:5%;
+	height:40px;
+	background-color:#F5F5F5;
+}
+
+
+/*gallery*/
+#gallery h2{
+	font-size:35px;
+	text-align:center;
+	padding:2% 0% 2% 0%;
+}
+#gallery1{
+	padding:0 0 0 15%;
+}
+#gallery2{
+	padding:0 0 0 16%;
+}
+
+/*feedback*/
+#feedback{
+	overflow:auto;
+}
+
+
+#column1{
+	width:50%;
+	float:left;
+	text-align:right;
+}
+#column2{
+	width:50%;
+	float:right;
+}
+#column1 img{ 
+	margin:20px;
+	border-radius:20px;
+}
+#column2 img{ 
+	margin:20px;
+	border-radius:20px;
+}
+
+/*footer*/
+#footer{
+	height:200px;
+	overflow:auto;
+	background-color:blue;
+}
+#footer-logo{
+	width:50%;
+	float:left;
+	
+}
+#icons{
+	width:50%;
+	float:right;
+	text-align:right;
+	margin-top:50px;
+	
+}
+.fab{
+	border:1px solid white;
+	background-color:white;
+	font-size:20px;
+	padding:3px;
+	margin:5px;
+	border-radius:5px;
+}
+#copyright p{
+	text-align:left;
+	color:white;
+	
+
+}
